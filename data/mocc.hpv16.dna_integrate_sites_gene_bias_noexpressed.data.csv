@@ -1,0 +1,7 @@
+"","Region","count","Group","Pvalue"
+"1","exonic",9,"Observed",0.999999999999986
+"2","exonic",9.33,"Expected",0.999999999999986
+"3","intronic",121,"Observed",0.622442680245969
+"4","intronic",113.36,"Expected",0.622442680245969
+"5","intergenic",393,"Observed",0.648529736953364
+"6","intergenic",400.31,"Expected",0.648529736953364
