@@ -1,0 +1,67 @@
+gene,cluster
+CD68,Zhang et al 2019 TAM-like
+CD163,Zhang et al 2019 TAM-like
+SIGLEC1,Zhang et al 2019 TAM-like
+C1QA,Zhang et al 2019 TAM-like
+SLC40A1,Zhang et al 2019 TAM-like
+GPNMB,Zhang et al 2019 TAM-like
+S100A9,Wang et al 2021 FCN1 mono
+S100A8,Wang et al 2021 FCN1 mono
+S100A12,Wang et al 2021 FCN1 mono
+FCN1,Wang et al 2021 FCN1 mono
+THBS1,Wang et al 2021 FCN1 mono
+LYZ,Wang et al 2021 FCN1 mono
+CD55,Wang et al 2021 FCN1 mono
+STXBP2,Wang et al 2021 FCN1 mono
+CD52,Wang et al 2021 FCN1 mono
+VCAN,Wang et al 2021 FCN1 mono
+CLEC9A,Allon et al 2019 DC1
+CADM1,Allon et al 2019 DC1
+NAAA,Allon et al 2019 DC1
+CPNE3,Allon et al 2019 DC1
+XCR1,Allon et al 2019 DC1
+SNX3,Allon et al 2019 DC1
+LGALS2,Allon et al 2019 DC1
+RAB7B,Allon et al 2019 DC1
+CPVL,Allon et al 2019 DC1
+C1orf54,Allon et al 2019 DC1
+FCGBP,Allon et al 2019 DC2
+CD1A,Allon et al 2019 DC2
+CD207,Allon et al 2019 DC2
+HLA-DQB2,Allon et al 2019 DC2
+FCER1A,Allon et al 2019 DC2
+S100B,Allon et al 2019 DC2
+CSF1R,Allon et al 2019 DC2
+CLDN1,Allon et al 2019 DC2
+CD1C,Allon et al 2019 DC2
+CLEC5A,Allon et al 2019 DC2
+BIRC3,Zhang et al 2019 C4-LAMP3+
+BTG1,Zhang et al 2019 C4-LAMP3+
+CCR7,Zhang et al 2019 C4-LAMP3+
+CD83,Zhang et al 2019 C4-LAMP3+
+LAMP3,Zhang et al 2019 C4-LAMP3+
+MARCKSL1,Zhang et al 2019 C4-LAMP3+
+RASSF4,Zhang et al 2019 C4-LAMP3+
+TXN,Zhang et al 2019 C4-LAMP3+
+RGS1,Zhang et al 2019 C4-LAMP3+
+MALAT1,Zhang et al 2019 C4-LAMP3+
+GATA2,Allon et al 2019 Mast cell
+KIT,Allon et al 2019 Mast cell
+MS4A2,Allon et al 2019 Mast cell
+TPSB2,Allon et al 2019 Mast cell
+TPSAB1,Allon et al 2019 Mast cell
+SLC18A2,Allon et al 2019 Mast cell
+IL1RL1,Allon et al 2019 Mast cell
+CLU,Allon et al 2019 Mast cell
+ADCYAP1,Allon et al 2019 Mast cell
+HDC,Allon et al 2019 Mast cell
+PI3,Allon et al 2019 Neutrophils
+CXCL8,Allon et al 2019 Neutrophils
+G0S2,Allon et al 2019 Neutrophils
+CXCR2,Allon et al 2019 Neutrophils
+S100A8,Allon et al 2019 Neutrophils
+FCGR3B,Allon et al 2019 Neutrophils
+IL1R2,Allon et al 2019 Neutrophils
+PROK2,Allon et al 2019 Neutrophils
+IFITM2,Allon et al 2019 Neutrophils
+CSF3R,Allon et al 2019 Neutrophils
